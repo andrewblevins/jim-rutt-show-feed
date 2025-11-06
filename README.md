@@ -4,7 +4,7 @@ Enhanced RSS 2.0 feed for The Jim Rutt Show podcast, combining episode metadata 
 
 ## Feed URL
 
-**RSS Feed:** [substack_feed.xml](https://YOUR_USERNAME.github.io/jim-rutt-show-feed/substack_feed.xml)
+**RSS Feed:** [substack_feed.xml](https://andrewblevins.github.io/jim-rutt-show-feed/substack_feed.xml)
 
 ## What This Feed Contains
 
